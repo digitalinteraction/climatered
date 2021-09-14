@@ -62,3 +62,4 @@ The [climate.red](https://climate.red) conference featured the following:
 
 - More work on the deconf libraries, moving more features across and improving
 - Detailed documentation for using the libraries
+- Rework ClimateRed to use Deconf itself
