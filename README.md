@@ -54,12 +54,6 @@ The [climate.red](https://climate.red) conference featured the following:
 - Everything is translated into English, French, Spanish and Arabic and supports right-to-left and left-to-right orientations
 
 
-## Further use
+## More information
 
-- The Deconf libraries were used and developed upon to run [MozFest 2021](https://www.mozillafestival.org/en/)
-
-## Future work
-
-- More work on the deconf libraries, moving more features across and improving
-- Detailed documentation for using the libraries
-- Rework ClimateRed to use Deconf itself
+The Climate:Red project lives on in Deconf, more information can be found at [digitalinteraction/deconf](https://github.com/digitalinteraction/deconf).
